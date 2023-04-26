@@ -96,4 +96,4 @@ CREATE TABLE NF2_Table2(
 INSERT INTO NF2_Table2
 SELECT 
 pokedex_number,abilities
-FROM NF1
+FROM NF1;
